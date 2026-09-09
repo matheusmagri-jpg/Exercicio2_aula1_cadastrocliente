@@ -56,8 +56,16 @@ Antes de executar o projeto, certifique-se de ter instalado:
 2. Localize a classe `Exercicio2_aula1_cadastrocliente`.
 3. Execute o método `main`.
 
+## 🔍 Detalhes Técnicos
+Utilização da classe Scanner para leitura de dados do teclado.
+Uso de in.nextLine() extra após in.nextInt() para consumir a quebra de linha residual e evitar conflitos de leitura.
+Estrutura simples e didática, ideal para fixação dos conceitos de I/O em Java.
+
+## 👤 Autor
+Matheus — Desenvolvedor do projeto
 ### Via Terminal
 ```bash
+
 # Compile o arquivo
 javac Exercicio2_aula1_cadastrocliente.java
 
@@ -66,27 +74,17 @@ java Exercicio2_aula1_cadastrocliente
 
 Digite o nome do cliente: Matheus Magri
 Digite a idade: 30
-Digite o email: matheus<img width="1536" height="1024" alt="ChatGPT Image 9_09_2026, 10_59_12" src="https://github.com/user-attachments/assets/335b497d-3c0e-46ef-90a2-b1e0cb4d8cd5" />
-<img width="1536" height="1024" alt="ChatGPT Image 9_09_2026, 10_59_12" src="https://github.com/user-attachments/assets/605e9ad4-f0d6-456c-8656-98dcfa67794e" />
-@email.com
+Digite o email: matheus@email.com
 
 ======= USUARIO CADASTRADO COM SUCESSO =======
 
-O nome do cliente e: Maria Silva
+O nome do cliente e: Matheus Magri
 A idade e: 30
-O email do cliente e: maria.silva@email.com
+O email do cliente e: matheus@email.com
 ================================================
 
 ---
 
-
-## 🔍 Detalhes Técnicos
-Utilização da classe Scanner para leitura de dados do teclado.
-Uso de in.nextLine() extra após in.nextInt() para consumir a quebra de linha residual e evitar conflitos de leitura.
-Estrutura simples e didática, ideal para fixação dos conceitos de I/O em Java.
-
-## 👤 Autor
-Matheus — Desenvolvedor do projeto
 
 ## 📄 Licença
 Este projeto é de uso educacional e está disponível para fins de estudo.
