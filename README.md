@@ -77,13 +77,14 @@ A idade e: 30
 O email do cliente e: maria.silva@email.com
 ================================================
 
-🔍 Detalhes Técnicos
+
+## 🔍 Detalhes Técnicos
 Utilização da classe Scanner para leitura de dados do teclado.
 Uso de in.nextLine() extra após in.nextInt() para consumir a quebra de linha residual e evitar conflitos de leitura.
 Estrutura simples e didática, ideal para fixação dos conceitos de I/O em Java.
 
-👤 Autor
+## 👤 Autor
 Matheus — Desenvolvedor do projeto
 
-📄 Licença
+## 📄 Licença
 Este projeto é de uso educacional e está disponível para fins de estudo.
