@@ -77,6 +77,8 @@ A idade e: 30
 O email do cliente e: maria.silva@email.com
 ================================================
 
+---
+
 
 ## 🔍 Detalhes Técnicos
 Utilização da classe Scanner para leitura de dados do teclado.
