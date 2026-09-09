@@ -84,5 +84,6 @@ Estrutura simples e didática, ideal para fixação dos conceitos de I/O em Java
 
 👤 Autor
 Matheus — Desenvolvedor do projeto
+
 📄 Licença
 Este projeto é de uso educacional e está disponível para fins de estudo.
